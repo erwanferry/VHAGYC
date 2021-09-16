@@ -13,4 +13,4 @@ Laraval est un framework PHP opensources permmettant l'intégration de modules p
 Avant le développement, une maquette a été faite pour mettre en place les différents éléments qui seront implantés.
 
 J'ai ensuite commencé le développement en suivant la documentation Laraval pour l'installer.
-J'ai alors commencé le développement en commençant par la mise en place de mes différents éléments de manière indépendante les unes des autres pour ensuite les tester et les implanter ensemble et finir sur un test général de tout le site. 
+J'ai alors débuté le développement par la mise en place de mes différents éléments de manière indépendante les unes des autres pour ensuite les tester et les implanter ensemble et finir sur un test général de tout le site. 
