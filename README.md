@@ -6,7 +6,7 @@ Pour réaliser cela, je disposais d'une contrainte de temps qui était de 48h.
 ## Choix technique
 
 Pour réaliser ce projet, je n'avais pas de contraintes sur l'utilisation de technologie. J'ai alors choisi d'utiliser le framework Laraval.
-Laraval est un framework PHP opensources permmettant l'intégration de modules pour faciliter la création de site.
+Laraval est un framework PHP opensources permettant l'intégration de modules pour faciliter la création de site.
 
 ## Réalisation 
 
