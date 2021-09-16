@@ -52,16 +52,16 @@ header .selector span{
     }
 
     header .selector a{
-        height: 20px;
-        width: 80px;
-        background-color: #070d69 ;
-        text-decoration: none;
-        color: #b1acac;
-        border: none;
-        font-family: 'Times New Roman', Times, serif;
-        
-        }
-        
+      height: 20px;
+      width: 80px;
+      background-color: #070d69 ;
+      text-decoration: none;
+      color: #b1acac;
+      border: none;
+      font-family: 'Times New Roman', Times, serif;
+      
+      }
+      
     header .selector a:hover{
             color: #b1acac;
             background:#0444b9;

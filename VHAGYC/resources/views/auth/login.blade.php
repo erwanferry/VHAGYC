@@ -24,7 +24,7 @@
             <!-- Password -->
             <div>
                 <x-label for="password" :value="__('Mot de passe')" />
-
+                <br>
                 <x-input id="password" 
                                 type="password"
                                 name="password"

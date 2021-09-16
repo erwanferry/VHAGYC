@@ -16,22 +16,22 @@
 
             <!-- Name -->
             <div>
-                <x-label for="name" :value="__('Nom')" style="margin-left: 162px"/>
-                
+                <x-label for="name" :value="__('Nom')" style="text-align: center"/>
+                <br>
                 <x-input id="name"  type="text" name="name" :value="old('name')" required autofocus />
             </div>
 
             <!-- Email Address -->
             <div class="mt-4" style="margin-left: '155px'">
                 <x-label for="email" :value="__('Email')" />
-
+                <br>
                 <x-input id="email"  type="email" name="email" :value="old('email')" required />
             </div>
 
             <!-- Password -->
             <div  style="margin-left: '96px'  ">
                 <x-label for="password" :value="__('Mot de passe')" />
-
+                <br>
                 <x-input style="border: 5px" id="password"   style="background-color: white;"
                                 type="password"
                                 name="password"
@@ -41,7 +41,7 @@
             <!-- Confirm Password -->
             <div >
                 <x-label for="password_confirmation" :value="__('Confirmer le mot de passe')" />
-
+                <br>
                 <x-input id="password_confirmation"
                                 type="password"
                                 name="password_confirmation" required />
