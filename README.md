@@ -11,7 +11,7 @@ Laravel est un framework PHP opensources permmettant l'intégration de module po
 ##Réalisation 
 
 Avant le dévellopement, une maquette à était faite pour mettre en place une mise en place des différents élémentes qui seront implanté.
-![alt text](https://github.com/erwanferry/VHAGYC/blob/main/Document/Schéma_site.png?raw=true)
+![alt text](https://https://github.com/erwanferry/VHAGYC/blob/main/Document/Sch%C3%A9ma_site.PNG?raw=true)
 
 J'ai ensuite commencer le dévellopement en suivant la documentation Laravel pour installer celui-ci sur mon projet.
 J'ai alors commencer le dévellopement en commencant par la mise en place de mes différents éléments de manière indépendante des une des autres pour ensuite les testés et les implanté ensemble pour finir sur un test général de tout le site. 
